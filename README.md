@@ -2,6 +2,8 @@
 
  
  I am @NikcQ
+
+ 
  I am a Computer Science student at the National University of Colombia.
 
  I’m currently learning Javascript, React, Angular & MongoDB and looking to collaborate on any Software Engineering projects.
