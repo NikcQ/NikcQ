@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikcq&label=Profile%20views&color=0e75b6&style=flat" alt="nikcq" /> </p>
 
-- 🌱 I’m currently learning **DevOps, C# & Flutter**
+- 🌱 I’m currently learning **Azure, AWS & GCP**
 
-- 💬 Ask me about **Angular, React, Java & Mongo**
+- 💬 Ask me about **AWS, Systems design and software architecture**
 
 - 📫 How to reach me **nilarottam@gmail.com**
 
